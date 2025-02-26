@@ -3,7 +3,7 @@
 
 This project implements a Forwarding Unit and Hazard Detection Unit in Verilog for a pipelined processor. These components help mitigate data hazards by forwarding necessary data and stalling the pipeline when required.
 
-#Features
+# Features
 
 Detects data hazards in a pipelined processor
 
